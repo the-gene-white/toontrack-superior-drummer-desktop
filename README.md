@@ -1,3 +1,3 @@
 # Toontrack Superior Drummer
 
-Utility scaffolding.
+Placeholder README (LLM render failed).
